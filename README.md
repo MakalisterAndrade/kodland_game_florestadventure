@@ -2,6 +2,18 @@
 
 Um jogo de plataforma 2D desenvolvido em Python usando Pygame Zero, onde o jogador controla um herói que deve derrotar inimigos em uma floresta mágica.
 
+## 📋 Prints
+![Menu Principal](screeshoots/2025-06-20_22-05.png)
+
+### Jogo em Andamento
+![Jogo em Andamento](screeshoots/2025-06-20_22-05_1.png)
+
+### Tela de Game Over
+![Game Over](screeshoots/2025-06-20_22-06.png)
+
+### Tela de Vitória
+![Vitória](screeshoots/2025-06-20_22-06_1.png)
+
 ## 📋 Requisitos Cumpridos
 
 ### ✅ Bibliotecas Permitidas
